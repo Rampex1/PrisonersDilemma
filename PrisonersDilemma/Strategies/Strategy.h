@@ -6,7 +6,8 @@ using namespace std;
 
 class Strategy {
 public:
-    virtual int getNextMove() = 0;
+    virtual int getMove() = 0;
+    virtual void setNextMove(int result) = 0;
     virtual ~Strategy() {}
 };
 

@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
-int Warmonger::getNextMove() {
+int Warmonger::getMove() {
     return nextMove;
 }
+
+void Warmonger::setNextMove(int result) {}

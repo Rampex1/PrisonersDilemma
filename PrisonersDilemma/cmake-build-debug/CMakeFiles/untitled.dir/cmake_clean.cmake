@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/untitled.dir/Constants.cpp.o"
+  "CMakeFiles/untitled.dir/Constants.cpp.o.d"
   "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o"
   "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o.d"
+  "CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o"
+  "CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o.d"
   "CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o"
   "CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o.d"
   "CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o"

@@ -1,5 +1,7 @@
-CMakeFiles/untitled.dir/main.cpp.o: \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/main.cpp \
+CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o: \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/../Strategy.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assertion_handler \
@@ -956,11 +958,4 @@ CMakeFiles/untitled.dir/main.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/print \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/./Strategies/Peacemaker/Peacemaker.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/./Strategies/Peacemaker/../Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/./Strategies/Warmonger/Warmonger.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/./Strategies/Warmonger/../Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Battle.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/../Strategies/Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/../Strategy.h
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/../../Constants.h

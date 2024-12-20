@@ -129,6 +129,30 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+Constants.o: Constants.cpp.o
+.PHONY : Constants.o
+
+# target to build an object file
+Constants.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Constants.cpp.o
+.PHONY : Constants.cpp.o
+
+Constants.i: Constants.cpp.i
+.PHONY : Constants.i
+
+# target to preprocess a source file
+Constants.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Constants.cpp.i
+.PHONY : Constants.cpp.i
+
+Constants.s: Constants.cpp.s
+.PHONY : Constants.s
+
+# target to generate assembly for a file
+Constants.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Constants.cpp.s
+.PHONY : Constants.cpp.s
+
 Simulation/Battle.o: Simulation/Battle.cpp.o
 .PHONY : Simulation/Battle.o
 
@@ -152,6 +176,30 @@ Simulation/Battle.s: Simulation/Battle.cpp.s
 Simulation/Battle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Simulation/Battle.cpp.s
 .PHONY : Simulation/Battle.cpp.s
+
+Strategies/Grudger/Grudger.o: Strategies/Grudger/Grudger.cpp.o
+.PHONY : Strategies/Grudger/Grudger.o
+
+# target to build an object file
+Strategies/Grudger/Grudger.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o
+.PHONY : Strategies/Grudger/Grudger.cpp.o
+
+Strategies/Grudger/Grudger.i: Strategies/Grudger/Grudger.cpp.i
+.PHONY : Strategies/Grudger/Grudger.i
+
+# target to preprocess a source file
+Strategies/Grudger/Grudger.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.i
+.PHONY : Strategies/Grudger/Grudger.cpp.i
+
+Strategies/Grudger/Grudger.s: Strategies/Grudger/Grudger.cpp.s
+.PHONY : Strategies/Grudger/Grudger.s
+
+# target to generate assembly for a file
+Strategies/Grudger/Grudger.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.s
+.PHONY : Strategies/Grudger/Grudger.cpp.s
 
 Strategies/Peacemaker/Peacemaker.o: Strategies/Peacemaker/Peacemaker.cpp.o
 .PHONY : Strategies/Peacemaker/Peacemaker.o
@@ -234,9 +282,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... Constants.o"
+	@echo "... Constants.i"
+	@echo "... Constants.s"
 	@echo "... Simulation/Battle.o"
 	@echo "... Simulation/Battle.i"
 	@echo "... Simulation/Battle.s"
+	@echo "... Strategies/Grudger/Grudger.o"
+	@echo "... Strategies/Grudger/Grudger.i"
+	@echo "... Strategies/Grudger/Grudger.s"
 	@echo "... Strategies/Peacemaker/Peacemaker.o"
 	@echo "... Strategies/Peacemaker/Peacemaker.i"
 	@echo "... Strategies/Peacemaker/Peacemaker.s"

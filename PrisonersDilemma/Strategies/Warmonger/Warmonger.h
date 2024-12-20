@@ -4,11 +4,12 @@
 
 // The Warmonger: Trust no one, show no mercy—this strategy’s motto is ‘defect first, ask questions never!’
 class Warmonger : public Strategy {
-private:
-    int nextMove = 1;
+    private:
+        int nextMove = 1;
 
-public:
-    int getNextMove();
+    public:
+        int getMove() override;
+        void setNextMove(int result) override;
 };
 
 #endif // WARMONGER_H

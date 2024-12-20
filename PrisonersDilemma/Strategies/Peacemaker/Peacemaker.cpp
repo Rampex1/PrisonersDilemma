@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
-int Peacemaker::getNextMove() {
-    return nextMove;
+int Peacemaker::getMove() {
+    return move;
 }
+
+void Peacemaker::setNextMove(int result) {}

@@ -11,4 +11,10 @@ add_executable(untitled
         Strategies/Warmonger/Warmonger.h
         Strategies/Peacemaker/Peacemaker.h
         Strategies/Strategy.h
-        Simulation/Battle.h)
+        Simulation/Battle.h
+        Simulation/Battle.cpp
+        Strategies/Grudger/Grudger.cpp
+        Strategies/Grudger/Grudger.h
+        Strategies/Grudger/Grudger.cpp
+        Constants.h
+        Constants.cpp)

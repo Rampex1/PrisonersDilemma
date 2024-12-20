@@ -125,12 +125,42 @@ CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.cpp -o CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.s
 
+CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp
+CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o -MF CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp
+
+CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp > CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp -o CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.s
+
+CMakeFiles/untitled.dir/Constants.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Constants.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.cpp
+CMakeFiles/untitled.dir/Constants.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/Constants.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Constants.cpp.o -MF CMakeFiles/untitled.dir/Constants.cpp.o.d -o CMakeFiles/untitled.dir/Constants.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.cpp
+
+CMakeFiles/untitled.dir/Constants.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Constants.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.cpp > CMakeFiles/untitled.dir/Constants.cpp.i
+
+CMakeFiles/untitled.dir/Constants.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Constants.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.cpp -o CMakeFiles/untitled.dir/Constants.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
 "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o" \
 "CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o" \
-"CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o"
+"CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o" \
+"CMakeFiles/untitled.dir/Constants.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -139,9 +169,11 @@ untitled: CMakeFiles/untitled.dir/main.cpp.o
 untitled: CMakeFiles/untitled.dir/Simulation/Battle.cpp.o
 untitled: CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o
 untitled: CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o
+untitled: CMakeFiles/untitled.dir/Constants.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
