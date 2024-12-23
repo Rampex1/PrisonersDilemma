@@ -177,6 +177,54 @@ Simulation/Battle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Simulation/Battle.cpp.s
 .PHONY : Simulation/Battle.cpp.s
 
+Strategies/Bully/Bully.o: Strategies/Bully/Bully.cpp.o
+.PHONY : Strategies/Bully/Bully.o
+
+# target to build an object file
+Strategies/Bully/Bully.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o
+.PHONY : Strategies/Bully/Bully.cpp.o
+
+Strategies/Bully/Bully.i: Strategies/Bully/Bully.cpp.i
+.PHONY : Strategies/Bully/Bully.i
+
+# target to preprocess a source file
+Strategies/Bully/Bully.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.i
+.PHONY : Strategies/Bully/Bully.cpp.i
+
+Strategies/Bully/Bully.s: Strategies/Bully/Bully.cpp.s
+.PHONY : Strategies/Bully/Bully.s
+
+# target to generate assembly for a file
+Strategies/Bully/Bully.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.s
+.PHONY : Strategies/Bully/Bully.cpp.s
+
+Strategies/CrowdFollower/CrowdFollower.o: Strategies/CrowdFollower/CrowdFollower.cpp.o
+.PHONY : Strategies/CrowdFollower/CrowdFollower.o
+
+# target to build an object file
+Strategies/CrowdFollower/CrowdFollower.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o
+.PHONY : Strategies/CrowdFollower/CrowdFollower.cpp.o
+
+Strategies/CrowdFollower/CrowdFollower.i: Strategies/CrowdFollower/CrowdFollower.cpp.i
+.PHONY : Strategies/CrowdFollower/CrowdFollower.i
+
+# target to preprocess a source file
+Strategies/CrowdFollower/CrowdFollower.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.i
+.PHONY : Strategies/CrowdFollower/CrowdFollower.cpp.i
+
+Strategies/CrowdFollower/CrowdFollower.s: Strategies/CrowdFollower/CrowdFollower.cpp.s
+.PHONY : Strategies/CrowdFollower/CrowdFollower.s
+
+# target to generate assembly for a file
+Strategies/CrowdFollower/CrowdFollower.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.s
+.PHONY : Strategies/CrowdFollower/CrowdFollower.cpp.s
+
 Strategies/Grudger/Grudger.o: Strategies/Grudger/Grudger.cpp.o
 .PHONY : Strategies/Grudger/Grudger.o
 
@@ -224,6 +272,102 @@ Strategies/Peacemaker/Peacemaker.s: Strategies/Peacemaker/Peacemaker.cpp.s
 Strategies/Peacemaker/Peacemaker.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.s
 .PHONY : Strategies/Peacemaker/Peacemaker.cpp.s
+
+Strategies/Pendulum/Pendulum.o: Strategies/Pendulum/Pendulum.cpp.o
+.PHONY : Strategies/Pendulum/Pendulum.o
+
+# target to build an object file
+Strategies/Pendulum/Pendulum.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o
+.PHONY : Strategies/Pendulum/Pendulum.cpp.o
+
+Strategies/Pendulum/Pendulum.i: Strategies/Pendulum/Pendulum.cpp.i
+.PHONY : Strategies/Pendulum/Pendulum.i
+
+# target to preprocess a source file
+Strategies/Pendulum/Pendulum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.i
+.PHONY : Strategies/Pendulum/Pendulum.cpp.i
+
+Strategies/Pendulum/Pendulum.s: Strategies/Pendulum/Pendulum.cpp.s
+.PHONY : Strategies/Pendulum/Pendulum.s
+
+# target to generate assembly for a file
+Strategies/Pendulum/Pendulum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.s
+.PHONY : Strategies/Pendulum/Pendulum.cpp.s
+
+Strategies/Random/Random.o: Strategies/Random/Random.cpp.o
+.PHONY : Strategies/Random/Random.o
+
+# target to build an object file
+Strategies/Random/Random.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o
+.PHONY : Strategies/Random/Random.cpp.o
+
+Strategies/Random/Random.i: Strategies/Random/Random.cpp.i
+.PHONY : Strategies/Random/Random.i
+
+# target to preprocess a source file
+Strategies/Random/Random.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.i
+.PHONY : Strategies/Random/Random.cpp.i
+
+Strategies/Random/Random.s: Strategies/Random/Random.cpp.s
+.PHONY : Strategies/Random/Random.s
+
+# target to generate assembly for a file
+Strategies/Random/Random.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.s
+.PHONY : Strategies/Random/Random.cpp.s
+
+Strategies/Rebel/Rebel.o: Strategies/Rebel/Rebel.cpp.o
+.PHONY : Strategies/Rebel/Rebel.o
+
+# target to build an object file
+Strategies/Rebel/Rebel.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o
+.PHONY : Strategies/Rebel/Rebel.cpp.o
+
+Strategies/Rebel/Rebel.i: Strategies/Rebel/Rebel.cpp.i
+.PHONY : Strategies/Rebel/Rebel.i
+
+# target to preprocess a source file
+Strategies/Rebel/Rebel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.i
+.PHONY : Strategies/Rebel/Rebel.cpp.i
+
+Strategies/Rebel/Rebel.s: Strategies/Rebel/Rebel.cpp.s
+.PHONY : Strategies/Rebel/Rebel.s
+
+# target to generate assembly for a file
+Strategies/Rebel/Rebel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.s
+.PHONY : Strategies/Rebel/Rebel.cpp.s
+
+Strategies/TitForTat/TitForTat.o: Strategies/TitForTat/TitForTat.cpp.o
+.PHONY : Strategies/TitForTat/TitForTat.o
+
+# target to build an object file
+Strategies/TitForTat/TitForTat.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o
+.PHONY : Strategies/TitForTat/TitForTat.cpp.o
+
+Strategies/TitForTat/TitForTat.i: Strategies/TitForTat/TitForTat.cpp.i
+.PHONY : Strategies/TitForTat/TitForTat.i
+
+# target to preprocess a source file
+Strategies/TitForTat/TitForTat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.i
+.PHONY : Strategies/TitForTat/TitForTat.cpp.i
+
+Strategies/TitForTat/TitForTat.s: Strategies/TitForTat/TitForTat.cpp.s
+.PHONY : Strategies/TitForTat/TitForTat.s
+
+# target to generate assembly for a file
+Strategies/TitForTat/TitForTat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.s
+.PHONY : Strategies/TitForTat/TitForTat.cpp.s
 
 Strategies/Warmonger/Warmonger.o: Strategies/Warmonger/Warmonger.cpp.o
 .PHONY : Strategies/Warmonger/Warmonger.o
@@ -288,12 +432,30 @@ help:
 	@echo "... Simulation/Battle.o"
 	@echo "... Simulation/Battle.i"
 	@echo "... Simulation/Battle.s"
+	@echo "... Strategies/Bully/Bully.o"
+	@echo "... Strategies/Bully/Bully.i"
+	@echo "... Strategies/Bully/Bully.s"
+	@echo "... Strategies/CrowdFollower/CrowdFollower.o"
+	@echo "... Strategies/CrowdFollower/CrowdFollower.i"
+	@echo "... Strategies/CrowdFollower/CrowdFollower.s"
 	@echo "... Strategies/Grudger/Grudger.o"
 	@echo "... Strategies/Grudger/Grudger.i"
 	@echo "... Strategies/Grudger/Grudger.s"
 	@echo "... Strategies/Peacemaker/Peacemaker.o"
 	@echo "... Strategies/Peacemaker/Peacemaker.i"
 	@echo "... Strategies/Peacemaker/Peacemaker.s"
+	@echo "... Strategies/Pendulum/Pendulum.o"
+	@echo "... Strategies/Pendulum/Pendulum.i"
+	@echo "... Strategies/Pendulum/Pendulum.s"
+	@echo "... Strategies/Random/Random.o"
+	@echo "... Strategies/Random/Random.i"
+	@echo "... Strategies/Random/Random.s"
+	@echo "... Strategies/Rebel/Rebel.o"
+	@echo "... Strategies/Rebel/Rebel.i"
+	@echo "... Strategies/Rebel/Rebel.s"
+	@echo "... Strategies/TitForTat/TitForTat.o"
+	@echo "... Strategies/TitForTat/TitForTat.i"
+	@echo "... Strategies/TitForTat/TitForTat.s"
 	@echo "... Strategies/Warmonger/Warmonger.o"
 	@echo "... Strategies/Warmonger/Warmonger.i"
 	@echo "... Strategies/Warmonger/Warmonger.s"

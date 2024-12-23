@@ -153,6 +153,90 @@ CMakeFiles/untitled.dir/Constants.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Constants.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.cpp -o CMakeFiles/untitled.dir/Constants.cpp.s
 
+CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.cpp
+CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o -MF CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.cpp
+
+CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.cpp > CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.cpp -o CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.s
+
+CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.cpp
+CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o -MF CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.cpp
+
+CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.cpp > CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.cpp -o CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.s
+
+CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.cpp
+CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o -MF CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.cpp
+
+CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.cpp > CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.cpp -o CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.s
+
+CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.cpp
+CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o -MF CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.cpp
+
+CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.cpp > CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.cpp -o CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.s
+
+CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.cpp
+CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o -MF CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.cpp
+
+CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.cpp > CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.cpp -o CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.s
+
+CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.cpp
+CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o -MF CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o.d -o CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o -c /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.cpp
+
+CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.cpp > CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.i
+
+CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.cpp -o CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
@@ -160,7 +244,13 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o" \
 "CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o" \
 "CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o" \
-"CMakeFiles/untitled.dir/Constants.cpp.o"
+"CMakeFiles/untitled.dir/Constants.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o" \
+"CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -171,9 +261,15 @@ untitled: CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o
 untitled: CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o
 untitled: CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o
 untitled: CMakeFiles/untitled.dir/Constants.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o
+untitled: CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -17,4 +17,16 @@ add_executable(untitled
         Strategies/Grudger/Grudger.h
         Strategies/Grudger/Grudger.cpp
         Constants.h
-        Constants.cpp)
+        Constants.cpp
+        Strategies/Pendulum/Pendulum.cpp
+        Strategies/Pendulum/Pendulum.h
+        Strategies/TitForTat/TitForTat.cpp
+        Strategies/TitForTat/TitForTat.h
+        Strategies/CrowdFollower/CrowdFollower.h
+        Strategies/CrowdFollower/CrowdFollower.cpp
+        Strategies/Random/Random.cpp
+        Strategies/Random/Random.h
+        Strategies/Bully/Bully.cpp
+        Strategies/Bully/Bully.h
+        Strategies/Rebel/Rebel.cpp
+        Strategies/Rebel/Rebel.h)
