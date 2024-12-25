@@ -3,16 +3,8 @@
 #include <unordered_map>
 #include <functional>
 #include <vector>
-#include "./Strategies/Peacemaker/Peacemaker.h"
-#include "./Strategies/Warmonger/Warmonger.h"
+#include "./Strategies/Strategy.h"
 #include "Simulation/Battle.h"
-#include "Strategies/Bully/Bully.h"
-#include "Strategies/CrowdFollower/CrowdFollower.h"
-#include "Strategies/Grudger/Grudger.h"
-#include "Strategies/Pendulum/Pendulum.h"
-#include "Strategies/Random/Random.h"
-#include "Strategies/Rebel/Rebel.h"
-#include "Strategies/TitForTat/TitForTat.h"
 #include "Simulation/Ranking.h"
 
 using namespace std;
@@ -40,7 +32,6 @@ int main() {
         strategyNames.push_back(pair.first);
     }
 
-    // Initialize total scores
     InitializeScores(strategyNames);
 
     // Play matches between all combinations of active strategies
@@ -77,7 +68,6 @@ int main() {
         }
     }
 
-    // Rank strategies
     RankStrategies(strategyNames);
 
     return 0;

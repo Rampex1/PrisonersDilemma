@@ -12,4 +12,14 @@ public:
     virtual ~Strategy() {}
 };
 
+#include "./Peacemaker/Peacemaker.h"
+#include "./Warmonger/Warmonger.h"
+#include "./Bully/Bully.h"
+#include "./CrowdFollower/CrowdFollower.h"
+#include "./Grudger/Grudger.h"
+#include "./Pendulum/Pendulum.h"
+#include "./Random/Random.h"
+#include "./Rebel/Rebel.h"
+#include "./TitForTat/TitForTat.h"
+
 #endif //STRATEGY_H

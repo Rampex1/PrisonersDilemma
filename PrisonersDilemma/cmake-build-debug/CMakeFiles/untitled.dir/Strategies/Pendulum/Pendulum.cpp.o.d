@@ -957,4 +957,21 @@ CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/print \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Peacemaker/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Warmonger/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Bully/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././CrowdFollower/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Grudger/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Random/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././Rebel/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/.././TitForTat/../Strategy.h

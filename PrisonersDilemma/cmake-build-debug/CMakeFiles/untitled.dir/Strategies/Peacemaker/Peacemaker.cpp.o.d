@@ -957,4 +957,21 @@ CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/print \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Warmonger/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Bully/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././CrowdFollower/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Grudger/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Pendulum/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Random/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././Rebel/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/.././TitForTat/../Strategy.h

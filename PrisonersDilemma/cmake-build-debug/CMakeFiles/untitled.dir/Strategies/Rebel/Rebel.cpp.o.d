@@ -958,4 +958,21 @@ CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/print \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Peacemaker/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Warmonger/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Bully/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././CrowdFollower/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Grudger/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Pendulum/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Random/../Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/.././TitForTat/../Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/../../Constants.h
