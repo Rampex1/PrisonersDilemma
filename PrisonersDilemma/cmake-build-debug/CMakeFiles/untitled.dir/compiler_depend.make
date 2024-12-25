@@ -963,6 +963,24 @@ CMakeFiles/untitled.dir/Simulation/Battle.cpp.o: /Users/davidzh/Documents/GitHub
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Battle.h
 
 CMakeFiles/untitled.dir/Simulation/Ranking.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Ranking.cpp \
@@ -2881,6 +2899,23 @@ CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o: /Users/davidzh/Documents/G
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h
 
@@ -3843,6 +3878,23 @@ CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o: /Users/dav
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h
 
 CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp \
@@ -4804,6 +4856,23 @@ CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o: /Users/davidzh/Documen
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h
 
 CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.cpp \
@@ -5764,6 +5833,23 @@ CMakeFiles/untitled.dir/Strategies/Peacemaker/Peacemaker.cpp.o: /Users/davidzh/D
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h
 
 CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.cpp \
@@ -6723,6 +6809,23 @@ CMakeFiles/untitled.dir/Strategies/Pendulum/Pendulum.cpp.o: /Users/davidzh/Docum
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h
 
@@ -7732,6 +7835,23 @@ CMakeFiles/untitled.dir/Strategies/Random/Random.cpp.o: /Users/davidzh/Documents
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h
 
 CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.cpp \
@@ -8692,6 +8812,23 @@ CMakeFiles/untitled.dir/Strategies/Rebel/Rebel.cpp.o: /Users/davidzh/Documents/G
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h
 
@@ -9654,6 +9791,23 @@ CMakeFiles/untitled.dir/Strategies/TitForTat/TitForTat.cpp.o: /Users/davidzh/Doc
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h
 
 CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.cpp \
@@ -10613,6 +10767,23 @@ CMakeFiles/untitled.dir/Strategies/Warmonger/Warmonger.cpp.o: /Users/davidzh/Doc
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h
 
@@ -11574,18 +11745,13 @@ CMakeFiles/untitled.dir/main.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDil
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Battle.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Ranking.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Pendulum/Pendulum.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
@@ -11593,16 +11759,17 @@ CMakeFiles/untitled.dir/main.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDil
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.h \
   /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
-  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Strategy.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Battle.h \
+  /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Ranking.h
 
-
-/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h:
-
-/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h:
 
 /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Rebel/Rebel.cpp:
-
-/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/numeric:
 
@@ -11666,11 +11833,17 @@ CMakeFiles/untitled.dir/main.cpp.o: /Users/davidzh/Documents/GitHub/PrisonersDil
 
 /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Peacemaker/Peacemaker.cpp:
 
-/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h:
-
 /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.cpp:
 
 /Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Battle.h:
+
+/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Warmonger/Warmonger.h:
+
+/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/TitForTat/TitForTat.h:
+
+/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Random/Random.h:
+
+/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h:
 
