@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Constants.cpp" "CMakeFiles/untitled.dir/Constants.cpp.o" "gcc" "CMakeFiles/untitled.dir/Constants.cpp.o.d"
   "/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Battle.cpp" "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o" "gcc" "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o.d"
+  "/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Simulation/Ranking.cpp" "CMakeFiles/untitled.dir/Simulation/Ranking.cpp.o" "gcc" "CMakeFiles/untitled.dir/Simulation/Ranking.cpp.o.d"
   "/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Bully/Bully.cpp" "CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o" "gcc" "CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o.d"
   "/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/CrowdFollower/CrowdFollower.cpp" "CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o" "gcc" "CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o.d"
   "/Users/davidzh/Documents/GitHub/PrisonersDilemma/PrisonersDilemma/Strategies/Grudger/Grudger.cpp" "CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o" "gcc" "CMakeFiles/untitled.dir/Strategies/Grudger/Grudger.cpp.o.d"

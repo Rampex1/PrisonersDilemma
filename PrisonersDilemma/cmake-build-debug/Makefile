@@ -177,6 +177,30 @@ Simulation/Battle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Simulation/Battle.cpp.s
 .PHONY : Simulation/Battle.cpp.s
 
+Simulation/Ranking.o: Simulation/Ranking.cpp.o
+.PHONY : Simulation/Ranking.o
+
+# target to build an object file
+Simulation/Ranking.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Simulation/Ranking.cpp.o
+.PHONY : Simulation/Ranking.cpp.o
+
+Simulation/Ranking.i: Simulation/Ranking.cpp.i
+.PHONY : Simulation/Ranking.i
+
+# target to preprocess a source file
+Simulation/Ranking.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Simulation/Ranking.cpp.i
+.PHONY : Simulation/Ranking.cpp.i
+
+Simulation/Ranking.s: Simulation/Ranking.cpp.s
+.PHONY : Simulation/Ranking.s
+
+# target to generate assembly for a file
+Simulation/Ranking.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Simulation/Ranking.cpp.s
+.PHONY : Simulation/Ranking.cpp.s
+
 Strategies/Bully/Bully.o: Strategies/Bully/Bully.cpp.o
 .PHONY : Strategies/Bully/Bully.o
 
@@ -432,6 +456,9 @@ help:
 	@echo "... Simulation/Battle.o"
 	@echo "... Simulation/Battle.i"
 	@echo "... Simulation/Battle.s"
+	@echo "... Simulation/Ranking.o"
+	@echo "... Simulation/Ranking.i"
+	@echo "... Simulation/Ranking.s"
 	@echo "... Strategies/Bully/Bully.o"
 	@echo "... Strategies/Bully/Bully.i"
 	@echo "... Strategies/Bully/Bully.s"

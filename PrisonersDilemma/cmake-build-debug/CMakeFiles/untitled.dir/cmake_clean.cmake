@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Constants.cpp.o.d"
   "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o"
   "CMakeFiles/untitled.dir/Simulation/Battle.cpp.o.d"
+  "CMakeFiles/untitled.dir/Simulation/Ranking.cpp.o"
+  "CMakeFiles/untitled.dir/Simulation/Ranking.cpp.o.d"
   "CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o"
   "CMakeFiles/untitled.dir/Strategies/Bully/Bully.cpp.o.d"
   "CMakeFiles/untitled.dir/Strategies/CrowdFollower/CrowdFollower.cpp.o"

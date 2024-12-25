@@ -1,5 +1,4 @@
 #include <iostream>
-#include <memory>
 #include <string>
 #include <unordered_map>
 #include <functional>
@@ -14,6 +13,7 @@
 #include "Strategies/Random/Random.h"
 #include "Strategies/Rebel/Rebel.h"
 #include "Strategies/TitForTat/TitForTat.h"
+#include "Simulation/Ranking.h"
 
 using namespace std;
 
@@ -34,19 +34,14 @@ int main() {
     // Vector to track which strategies are active (all 1 for now)
     vector<int> activeStrategies(strategyFactory.size(), 1);
 
-    // Track total scores for each strategy
-    unordered_map<string, int> totalScores;
-
-    // Initialize scores to 0
-    for (const auto& pair : strategyFactory) {
-        totalScores[pair.first] = 0;
-    }
-
     // Generate all strategy names
     vector<string> strategyNames;
     for (const auto& pair : strategyFactory) {
         strategyNames.push_back(pair.first);
     }
+
+    // Initialize total scores
+    InitializeScores(strategyNames);
 
     // Play matches between all combinations of active strategies
     for (size_t i = 0; i < strategyNames.size(); ++i) {
@@ -74,8 +69,7 @@ int main() {
             }
 
             // Update total scores
-            totalScores[strategyOneName] += strategyOneScore;
-            totalScores[strategyTwoName] += strategyTwoScore;
+            UpdateScores(strategyOneName, strategyTwoName, strategyOneScore, strategyTwoScore);
 
             // DEBUG: Print match results
             cout << strategyOneName << " vs " << strategyTwoName << " => "
@@ -83,17 +77,8 @@ int main() {
         }
     }
 
-    // Print final total scores
-    cout << "\n=== Final Total Scores ===\n";
-    for (const auto& pair : totalScores) {
-        cout << pair.first << ": " << pair.second << endl;
-    }
-
-    // Print active strategies
-    cout << "\n=== Active Strategies ===\n";
-    for (size_t i = 0; i < strategyNames.size(); ++i) {
-        cout << strategyNames[i] << ": " << (activeStrategies[i] ? "Active" : "Inactive") << endl;
-    }
+    // Rank strategies
+    RankStrategies(strategyNames);
 
     return 0;
 }

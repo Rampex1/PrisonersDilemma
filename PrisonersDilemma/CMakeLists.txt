@@ -29,4 +29,6 @@ add_executable(untitled
         Strategies/Bully/Bully.cpp
         Strategies/Bully/Bully.h
         Strategies/Rebel/Rebel.cpp
-        Strategies/Rebel/Rebel.h)
+        Strategies/Rebel/Rebel.h
+        Simulation/Ranking.cpp
+        Simulation/Ranking.h)
