@@ -7,6 +7,7 @@
 #include "./Strategies/Strategy.h"
 #include "Simulation/Battle.h"
 #include "Simulation/Ranking.h"
+#include "Strategies/Enforcer/Enforcer.h"
 
 using namespace std;
 
@@ -21,7 +22,8 @@ int main() {
         {"CrowdFollower", []() { return make_unique<CrowdFollower>(); }},
         {"Random", []() { return make_unique<Random>(); }},
         {"Bully", []() { return make_unique<Bully>(); }},
-        {"Rebel", []() { return make_unique<Rebel>(); }}
+        {"Rebel", []() { return make_unique<Rebel>(); }},
+        {"Enforcer", []() { return make_unique<Enforcer>(); }}
     };
 
     // Generate all strategy names

@@ -31,4 +31,6 @@ add_executable(untitled
         Strategies/Rebel/Rebel.cpp
         Strategies/Rebel/Rebel.h
         Simulation/Ranking.cpp
-        Simulation/Ranking.h)
+        Simulation/Ranking.h
+        Strategies/Enforcer/Enforcer.cpp
+        Strategies/Enforcer/Enforcer.h)

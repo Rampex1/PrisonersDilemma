@@ -1,11 +1,9 @@
-//
-// Created by David Zhou on 2024-12-20.
-//
-
 #ifndef TITFORTAT_H
 #define TITFORTAT_H
 #include "../Strategy.h"
 
+// Tit for Tat: The fair and faithful partner—play nice, and it’ll match your kindness; betray it,
+//  and prepare for payback!
 class TitForTat : public Strategy {
     private:
         int move = 0;
